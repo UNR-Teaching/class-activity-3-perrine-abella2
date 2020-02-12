@@ -1,0 +1,5 @@
+In our Tic-Tac-Toe game, we have three distinct components (classes): 
+Board, Player, and Game. During our integration testing, 
+we are testing the interaction between board and game; and board, game, and player. 
+
+We used the strategy of top down
